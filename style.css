@@ -30,7 +30,7 @@ body{
     grid-template-columns: [header-start sidebar-start] 12.83rem [sidebar-end content-start info-start] 1fr [ info-end reviews-start] 22rem [reviews-end header-end content-end];
 
     grid-template-rows: 4rem 15.3rem 1fr;
-    height: 200vh;
+   
     position: relative;
 
 }
